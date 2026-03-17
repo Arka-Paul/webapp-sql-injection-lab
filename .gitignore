@@ -1,0 +1,35 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Office temporary files
+~$*.docx
+~$*.odt
+~$*.pptx
+
+# Editor configuration
+.vscode/
+.idea/
+
+# Linux swap files
+*.swp
+*.swo
+
+# Python cache (in case scripts are added later)
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Large files that should not be pushed accidentally
+*.pcap
+*.pcapng
+*.iso
+*.img
