@@ -103,12 +103,12 @@ These weaknesses demonstrate the risks of unsanitised input, improper database d
 ```
 webapp-sql-injection-lab/
 │
-├── README.md
-├── LICENSE
-├── .gitignore
-│
 └── docs/
     └── web-application-security-laboratory.pdf
+├── .gitignore
+├── LICENSE
+├── README.md
+
 ```
 
 ---
